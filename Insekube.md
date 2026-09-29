@@ -324,7 +324,6 @@ _=/usr/bin/env
 
 ```
 
-![[Pasted image 20230303183254.png]]
 
 What is flag 1?
 
